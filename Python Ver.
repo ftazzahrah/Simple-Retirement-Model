@@ -1,10 +1,1 @@
-#Input
-#The inputs are defined here
-salary = 60000
-saving_rate = 0.25
-investment_rate = 0.05
-desired_cash = 1500000
 
-#Determining Cash Saved
-annual_cash = salary * saving_rate
-  annual_cash
